@@ -2,7 +2,7 @@ package exam01;
 
 public class good {
 	public static void main(String[] args) {
-		System.out.println("GOOD~~");
+		System.out.println("G");
 
 	}
 
