@@ -1,4 +1,4 @@
-package chap02;
+package chap02.exam01;
 
 public class VariableExcangeExample {
 
