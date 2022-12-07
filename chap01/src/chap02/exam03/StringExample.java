@@ -7,7 +7,7 @@ public class StringExample {
 		String name = "이건상";
 		String job = "프로그래머";
 		
-		System.out.println(name + job);
+		System.out.println(name + " " + job);
 		
 
 	}
