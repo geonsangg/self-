@@ -1,4 +1,4 @@
-package chap02.exam03;
+package chap02.exam02;
 
 public class ByteExample {
 
