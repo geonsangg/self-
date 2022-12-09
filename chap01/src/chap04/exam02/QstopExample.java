@@ -8,7 +8,7 @@ public class QstopExample {
 
 		while (true) {
 			keyCode = System.in.read();
-			System.out.println("keCode: " + keyCode);
+			System.out.println("keyCode: " + keyCode);
 			if(keyCode ==  113) {
 				break;
 			}
